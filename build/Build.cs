@@ -71,6 +71,6 @@ class Build : NukeBuild
         Git("config --global user.email \"denis.ekart@gmail.com\"");
         Git("add -A");
         Git("commit -m \"[bot] chore: another day, another excuse\"");
-        Git("push");
+        Git("push origin HEAD:main");
     }
 }
