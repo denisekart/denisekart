@@ -67,10 +67,10 @@ class Build : NukeBuild
     }
     private void CommitChanges()
     {
-        Git("config --global user.name \"excuse bot [bot]\"");
-        Git("config --global user.email \"denis.ekart@gmail.com\"");
+        Git("config --global user.name \"excuse-bot[bot]\"");
+        Git("config --global user.email \"excuse.bot@users.noreply.github.com\"");
         Git("add -A");
-        Git("commit -m \"[bot] chore: another day, another excuse\"");
+        Git("commit -m \"[bot] chore: another day, another excuse\" --allow-empty");
         Git("push origin HEAD:main");
     }
 }
