@@ -23,7 +23,7 @@ on:
         description: "DUMMY_NAME"
         required: false
   schedule:
-    - cron: ''
+    - cron: '0 * * * *'
 
 jobs:
   ubuntu-latest:
