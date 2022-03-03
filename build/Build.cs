@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 using static Serilog.Log;
 
 [GitHubActions("excuses",
-    GitHubActionsImage.UbuntuLatest,
+    GitHubActionsImage.WindowsLatest,
     AutoGenerate = true,
     OnCronSchedule = "0 * * * *",
     CacheIncludePatterns = new[] { "~/.nuget/packages" },
