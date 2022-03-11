@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*It’s a browser compatibility issue.*
+*It’s an unexpected emergent behaviour of several last minute abstractions.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
