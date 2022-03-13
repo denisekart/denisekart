@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*I’m not familiar with it so I didn’t fix it in case I made it worse.*
+*That’s the fault of the graphic designer.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
