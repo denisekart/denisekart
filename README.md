@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*This code was not supposed to go in to production yet.*
+*Our code quality is no worse than anyone else in the industry.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
