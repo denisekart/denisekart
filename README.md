@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*Nobody has ever complained about it.*
+*The program has never collected that information.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
