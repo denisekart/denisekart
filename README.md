@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*That wasn’t in the original specification.*
+*That important email must have been marked as spam.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
