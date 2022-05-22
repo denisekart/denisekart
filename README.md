@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*It’s not a code problem — our users need more training.*
+*It would have taken twice as long to build it properly.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
