@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*That isn’t covered by my job description.*
+*No one told me so I was forced to assume which way to do that.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
