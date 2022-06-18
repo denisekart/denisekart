@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*Our redundant systems must have failed as well.*
+*My time was split in a way that meant I couldn’t do either project properly*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
