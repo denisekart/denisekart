@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*I heard there was a solar flare today.*
+*We didn’t have enough time to peer review the final changes.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
