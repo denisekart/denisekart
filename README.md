@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*I couldn’t find any examples of how that can be done anywhere online.*
+*What did you type in wrong to get it to crash?*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
