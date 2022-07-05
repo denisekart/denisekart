@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*Our hardware is too slow to cope with demand.*
+*That’s not a bug it’s a configuration issue.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
