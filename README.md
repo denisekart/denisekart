@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*The problem seems to be with our legacy software.*
+*The marketing department made us put that there.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
