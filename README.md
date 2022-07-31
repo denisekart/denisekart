@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*I haven’t had a chance to run that code yet.*
+*I must have been stress-testing our production server.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
