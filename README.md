@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*The client wanted it changed at the last minute.*
+*There’s currently a problem with our hosting company.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
