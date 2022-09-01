@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*What did you type in wrong to get it to crash?*
+*That code seemed so simple I didn’t think it needed testing.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
