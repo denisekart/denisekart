@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*Well, at least it displays a very pretty error.*
+*I forgot to commit the code that fixes that.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
