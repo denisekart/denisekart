@@ -10,7 +10,7 @@ I am an innovative programmer with close to a decade of professional experience 
 
 #### Hey, here's fun developer excuse you can use (you didn't get it from me)
 
-*Nobody asked me how long it would actually take.*
+*I told you yesterday it would be done by the end of today.*
 
 > You can get a new excuse every hour, just keep refreshing 😁
 
